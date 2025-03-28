@@ -6,14 +6,19 @@
 
 ## Key Features
 
-✅ **Complete Grammar Coverage** – Supports all pseudocode syntax from the CIE syllabus, ensuring an authentic exam practice experience. 	
+✅ **Complete Grammar Coverage** – Supports all pseudocode syntax from the CIE syllabus, ensuring an authentic exam practice experience. 
+
 ✅ **By Reference (BYREF) Parameters** – Fully implements **BYREF** parameters, enabling true reference passing.  	
+
 ✅ **Records** – Allows users to define and manipulate structured record types.  
-✅ **Array Index-Free Sets** – Supports CIE-style array indexing, allowing for flexible data structure manipulation.  	
+
+✅ **Array Index-Free Sets** – Supports CIE-style array indexing, allowing for flexible data structure manipulation.  
+
 ✅ **Time Handling** – Implements time-based operations as expected in CIE exams.  
+
 ✅ **All Built-in Functions** – Includes all built-in functions provided in **CIE’s 2024 Insert Paper** (e.g., `LENGTH`, `MID`, `ASC`, `CHR`, `RAND`, etc.).  
+
 ✅ **File Operations** – Supports **file reading and writing**, ensuring compatibility with practical file-handling exam scenarios(be careful using absolute path).  
-✅ **100% CIE Pseudocode Compatible**
 
 ## How to Use
 
