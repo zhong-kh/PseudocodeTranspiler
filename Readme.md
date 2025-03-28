@@ -1,6 +1,6 @@
 # PseudocodeTranspiler
 
-## The Ultimate CIE AS & A-Level Computer Science Pseudocode Compiler
+## A Comprehensive CIE AS & A-Level Computer Science Pseudocode Compiler
 
 **PseudocodeTranspiler** is a comprehensive tool available for preparing for the **Cambridge International AS & A-Level Computer Science** exams. This project fully supports all grammar and syntax rules defined by **CIE's pseudocode specification**, ensuring that students can write, test, and practice pseudocode exactly as it appears in the exam.
 
