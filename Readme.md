@@ -52,6 +52,12 @@ Simply run the program to see it in action!
 - **Practice efficiently**: Copy-paste any past paper pseudocode and execute it instantly.
 - **Prepare for exams with confidence**: Gain hands-on experience with CIE pseudocode **without needing a different programming language**.
 
-## 
+## Issues
 - **If any suggestions, bugs, or improvements on the newly updated syllabus or insert paper**
 - **Please contact me**
+
+## Disclaimer
+This project is not officially affiliated with Cambridge International. It is an independent tool designed to help students prepare for the AS & A-Level Computer Science exam. While every effort has been made to ensure accuracy, we do not guarantee that this tool perfectly replicates the exam environment. Use at your own discretion.
+
+## License
+This project is licensed under the MIT License, allowing free use, modification, and distribution with attribution. See the LICENSE file for details.
