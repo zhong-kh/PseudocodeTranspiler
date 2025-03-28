@@ -6,7 +6,7 @@
 
 ## Key Features
 
-✅ **Complete Grammar Coverage** – Supports all pseudocode syntax from the CIE syllabus, ensuring an authentic exam practice experience. 
+✅ **Complete Grammar Coverage** – Supports all pseudocode syntax from the CIE syllabus, ensuring an authentic exam practice experience.
 ✅ **By Reference (BYREF) Parameters** – Fully implements **BYREF** parameters, enabling true reference passing.  
 ✅ **Records** – Allows users to define and manipulate structured record types.  
 ✅ **Array Index-Free Sets** – Supports CIE-style array indexing, allowing for flexible data structure manipulation.  
