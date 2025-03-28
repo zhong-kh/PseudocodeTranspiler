@@ -1,0 +1,23 @@
+// An example from 9618 s21 31
+// Please be careful replacing some strange notations in mark schemes such as "←" to "<-"
+// Please declare variables before using, even though declaration statement not found in given mark scheme
+
+DECLARE Score : ARRAY[1:10] OF INTEGER
+FOR i <- 1 TO 10
+    Score[i] <- RAND(20)
+NEXT i
+DECLARE Temp1,Counter : INTEGER
+
+FOR Student <- 2 TO 10
+ Temp1 <- Score[Student]
+ Counter <- Student
+ WHILE (Counter > 1 AND Score[Counter - 1] < Temp1)
+    Score[Counter] <- Score[Counter - 1]
+    Counter <- Counter - 1
+ ENDWHILE
+ Score[Counter] <- Temp1
+NEXT Student
+
+FOR i <- 1 TO 10
+    OUTPUT Score[i]
+NEXT i
