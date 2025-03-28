@@ -19,7 +19,7 @@
 
 1. Clone this repository:
 2. Place your pseudocode in a file and copy the absolute path.
-3. Run PseudocodeCompiler.java to execute your pseudocode exactly as in CIE exams.
+3. Run PseudocodeCompiler.java in src/main/java to execute your pseudocode exactly as in CIE exams.
 
 ## Example (Insertion Sort from 2021 Paper 3)
 
