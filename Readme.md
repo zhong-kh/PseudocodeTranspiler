@@ -62,7 +62,7 @@ Simply run the program to see it in action!
 - **Please contact me**
 
 ## Disclaimer
-This project is not officially affiliated with Cambridge International. It is an independent tool designed to help students prepare for the AS & A-Level Computer Science exam. While every effort has been made to ensure accuracy, we do not guarantee that this tool perfectly replicates the exam environment. Use at your own discretion.
+This project is not officially affiliated with Cambridge International. It is an independent tool designed to help students prepare for the AS & A-Level Computer Science exam. While every effort has been made to ensure accuracy, the contributor do not guarantee that this tool perfectly replicates the exam environment. Use at your own discretion.
 
 ## License
 This project is licensed under the MIT License, allowing free use, modification, and distribution with attribution. See the LICENSE file for details.
